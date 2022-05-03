@@ -104,7 +104,7 @@ class _HomepageState extends State<Homepage> {
 //                  ),
                 ),
                 Text(
-                  "Made with ❤ by Arunoday Kumar",
+                  "Made with ❤ by Vishal ",
                   style: TextStyle(
                     fontFamily: 'Source Sans Pro',
                     color: Colors.white,
